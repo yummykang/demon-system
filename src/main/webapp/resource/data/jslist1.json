@@ -1,0 +1,66 @@
+[{
+		"id" : 1,
+		"text" : "所有角色",
+		"children" : [{
+				"id" : 11,
+				"text" : "系统管理员",
+				"state":"closed",
+				"children" : [{
+					"id" : 111,
+					"text" : "系统管理员1"
+				}]
+			}, {
+				"id" : 12,
+				"text" : "工程师",
+				"state":"closed",
+				"children" : [{
+					"id" : 121,
+					"text" : "工程师1"
+				}]
+			}, {
+				"id" : 13,
+				"text" : "测试",
+				"state":"closed",
+				"children" : [{
+					"id" : 131,
+					"text" : "测试1"
+				}]
+			}, {
+				"id" : 14,
+				"text" : "用户",
+				"state":"closed",
+				"children" : [{
+					"id" : 141,
+					"text" : "用户1"
+				}]
+			}, {
+				"id" : 15,
+				"text" : "审批专员",
+				"state":"closed",
+				"children" : [{
+					"id" : 151,
+					"text" : "审批专员1"
+				}]
+			}, {
+				"id" : 16,
+				"text" : "运行管理",
+				"state":"closed",
+				"children" : [{
+					"id" : 161,
+					"text" : "运行管理1"
+				}]
+			}, {
+				"id" : 17,
+				"text" : "数据采集",
+				"state":"closed",
+				"children" : [{
+					"id" : 171,
+					"text" : "数据采集1"
+				}]
+			}, {
+				"id" : 18,
+				"text" : "admin"
+			}
+		]
+	}
+]

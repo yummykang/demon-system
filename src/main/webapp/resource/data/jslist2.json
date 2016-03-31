@@ -1,0 +1,51 @@
+[{
+		"id" : 1,
+		"text" : "基础数据",
+		"children" : [{
+				"id" : 11,
+				"text" : "项目信息",
+				"state" : "closed",
+				"children" : [{
+						"id" : 111,
+						"text" : "项目信息1"
+					}
+				]
+			}, {
+				"id" : 12,
+				"text" : "站点信息",
+				"state" : "closed",
+				"children" : [{
+						"id" : 121,
+						"text" : "站点信息1"
+					}
+				]
+			}
+		]
+	},{
+		"id" : 2,
+		"text" : "设备监控",
+		"children" : [{
+				"id" : 21,
+				"text" : "监控数据采集",
+				"state" : "closed",
+				"children" : [{
+						"id" : 221,
+						"text" : "监控数据采集1"
+					}
+				]
+			}, {
+				"id" : 22,
+				"text" : "监控响应",
+				"state" : "closed",
+				"children" : [{
+						"id" : 121,
+						"text" : "指派工程师"
+					},{
+						"id" : 122,
+						"text" : "指定备件"
+					}
+				]
+			}
+		]
+	}
+]
